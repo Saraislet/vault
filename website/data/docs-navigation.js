@@ -325,7 +325,8 @@ export default [
                   'standalone-tls',
                   'standalone-audit',
                   'ha-with-consul',
-                  'kubernetes-auth'
+                  'kubernetes-auth',
+                  'enterprise-best-practice'
                 ]
               },
             ],
